@@ -404,7 +404,7 @@ footer p a span {
 
 @media screen and (max-width: 545px) {
   span {
-      display: none;
+      display: contents;
   }
 
   .float-button {
@@ -416,6 +416,6 @@ footer p a span {
 
   .fa-whatsapp {
       font-size: 22px !important;
-      padding: 4px;
+      padding: 10px;
   }
 }
